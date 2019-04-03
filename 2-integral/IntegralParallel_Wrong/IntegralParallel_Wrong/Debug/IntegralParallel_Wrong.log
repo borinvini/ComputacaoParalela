@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+c:\users\92006531\desktop\2-integral\integralparallel_wrong\integralparallel_wrong\origem.cpp(44): warning C4552: '/': operador não tem efeito; esperado operador com efeito colateral
+c:\users\92006531\desktop\2-integral\integralparallel_wrong\integralparallel_wrong\origem.cpp(12): warning C4101: 'i': variável local não referenciada
+  IntegralParallel_Wrong.vcxproj -> C:\Users\92006531\Desktop\2-integral\IntegralParallel_Wrong\Debug\IntegralParallel_Wrong.exe
+  IntegralParallel_Wrong.vcxproj -> C:\Users\92006531\Desktop\2-integral\IntegralParallel_Wrong\Debug\IntegralParallel_Wrong.pdb (Partial PDB)
