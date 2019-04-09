@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\computação paralela\13 - algoritmos c\4-media\loopdependecia\loopdependecia\origem.cpp(11): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  LoopDependecia.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\4-media\LoopDependecia\Debug\LoopDependecia.exe
+  LoopDependecia.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\4-media\LoopDependecia\Debug\LoopDependecia.pdb (Partial PDB)

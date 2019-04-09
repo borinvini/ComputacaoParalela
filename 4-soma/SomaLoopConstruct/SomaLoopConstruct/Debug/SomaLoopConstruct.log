@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\computação paralela\13 - algoritmos c\3-soma\somaloopconstruct\somaloopconstruct\origem.cpp(13): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  SomaLoopConstruct.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\3-soma\SomaLoopConstruct\Debug\SomaLoopConstruct.exe
+  SomaLoopConstruct.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\3-soma\SomaLoopConstruct\Debug\SomaLoopConstruct.pdb (Partial PDB)
