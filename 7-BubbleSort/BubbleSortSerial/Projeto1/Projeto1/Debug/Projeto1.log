@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\computação paralela\13 - algoritmos c\7-bubblesort\bubblesortserial\projeto1\projeto1\origem.cpp(12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Projeto1.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\7-BubbleSort\BubbleSortSerial\Projeto1\Debug\Projeto1.exe
+  Projeto1.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\7-BubbleSort\BubbleSortSerial\Projeto1\Debug\Projeto1.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\computação paralela\13 - algoritmos c\7-bubblesort\evenoddsort_par\evenoddsort_par\origem.cpp(12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  EvenOddSort_Par.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\7-BubbleSort\EvenOddSort_Par\Debug\EvenOddSort_Par.exe
+  EvenOddSort_Par.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Computação Paralela\13 - Algoritmos C\7-BubbleSort\EvenOddSort_Par\Debug\EvenOddSort_Par.pdb (Partial PDB)
